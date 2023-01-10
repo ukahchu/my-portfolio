@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:54:39	5232/5232	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%225c41b5c8-247b%22	http://findmatthew.com/robots.txt		(from )
+10:54:40	23037/23037	---MCZ	200	added ('OK')	text/html	etag:W/%225e3351db-59fd%22	http://findmatthew.com/	E:/WACHU%20DOCS/PROJECTS/My%20profile/index-2.html	(from )
